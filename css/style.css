@@ -20,3 +20,9 @@ color:#FF9E9E;
 .titulo-amarelo{
 color:#ffe36d;
 }
+
+section{
+  max-width:60%;
+  margin:0 auto;
+  
+}
