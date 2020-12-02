@@ -4,7 +4,6 @@ body{
   background-color:#8a71c9;
   color:#ffffff;
   margin: 0px;
-
 }
 
 h2{
@@ -51,7 +50,8 @@ img{
 ul{
   list-style-type:none;
   line-height: 2;
-}
+  padding-left: 0;
+ }
 
 a{
   text-decoration:none;
