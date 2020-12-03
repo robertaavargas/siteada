@@ -6,6 +6,13 @@ body{
   margin: 0px;
 }
 
+button{
+ background: #41f341;
+ border: 1px solid transparent;
+ padding: 2px 20px;
+ border-radius: 3px;
+}
+
 h2{
   color:#2a0074;
   font-size:40px;
