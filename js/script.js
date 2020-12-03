@@ -1,6 +1,6 @@
-if(document.getElementById("nome").value estiver preenchido &&  document.getElementById("email").value preenchido){
-  envie os dados
+if(document.getElementById("nome").value != "" &&  document.getElementById("email").value != ""){
+ alert("Prontinho! Você receberá as novidades por e-mail.")
 }else{
-  peça para a usuária que preencha os campos nome e e-mail
+  alert("Por favor, preencha os campos nome e email!")
 }
 
