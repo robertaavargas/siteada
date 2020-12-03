@@ -24,8 +24,12 @@ color:#ffe36d;
 }
 
 section{
-  max-width:60%;
-  margin:0 auto; 
+  width:60%;
+  margin:0 auto;
+}
+
+section section{
+  width:100%;
 }
 
 h1{
